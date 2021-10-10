@@ -13,3 +13,5 @@ Challenges we ran into while coming up and implementing this project :
 2. After coming up with this idea voice recognition and speaker acted as a small problem but was resolved.
 3. Training a model for detecting posed a problem.
 4. After this, coming up with a way of transferring and connecting a phone to the software
+<img width="631" alt="CaptureS" src="https://user-images.githubusercontent.com/75110825/136689104-77e06b44-5424-4121-8482-ee72c7b3e4a6.PNG">
+<img width="700" alt="dd" src="https://user-images.githubusercontent.com/75110825/136689110-7ebf8a73-d508-4d60-bfc5-e651fbcff1f0.PNG">
